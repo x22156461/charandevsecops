@@ -1,0 +1,9 @@
+django==2.1.15
+asgiref
+django-cors-headers
+gunicorn
+Pillow
+psycopg2-binary==2.8.6
+django-crispy-forms
+whitenoise
+pytz==2023.3.post1
